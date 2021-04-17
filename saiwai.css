@@ -13,10 +13,11 @@ h1 span{
 .numbers ol{
   font-size: 50px;
   line-height: 250px;
-  padding-left: 6%;
-  padding-top: 30%;
+  padding-left: 10%;
+  padding-top: 35%;
 }
 
-img{
-  float: left;
+.descri{
+  float: right;
+  padding-left: 50%;
 }
