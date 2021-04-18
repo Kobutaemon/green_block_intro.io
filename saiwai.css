@@ -10,11 +10,14 @@ h1 span{
 }
 
 .picture{
+    position: relative;
     background: rgba(101, 201, 201,0.5);
 }
 
 .picture p{
-    float: right;
+    position: absolute;
+    top: 0;
+    left: 30%;
     padding-top: 5%;
     font-size: 45px;
 }
