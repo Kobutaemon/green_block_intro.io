@@ -25,3 +25,15 @@ h1 span{
 .numbers ol{
     padding-left: 7%;
 }
+
+.footer-T{
+    background-color: #2f5167;
+    float: left;
+    color:#fff;
+    height: 120px;
+    padding:40px;
+}
+
+.background{
+    background-color: #2f5167;
+}
