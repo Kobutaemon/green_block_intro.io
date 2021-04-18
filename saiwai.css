@@ -16,3 +16,15 @@ h1 span{
   padding-left: 10%;
   padding-top: 35%;
 }
+
+.message{
+  position:relative;
+}
+
+.message p{
+  position:absolute;
+  top: 15%;
+  left: 3%;
+  
+  font-size: 45px;
+}
