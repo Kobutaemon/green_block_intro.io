@@ -5,6 +5,10 @@
     border-bottom: 5px solid #69c;
 }
 
+h1 {
+    text-align: center;
+}
+
 h1 span{
     color: rgb(177, 228, 100);
 }
